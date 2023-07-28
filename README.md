@@ -42,6 +42,6 @@
 
 </br>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jimmy-ramani-0912&show_icons=true&locale=en" alt="jimmy-ramani-0912" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jimmy-ramani-0912&show_icons=true&locale=en" alt="jimmy-ramani-0912" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&" alt="jimmy-ramani-0912" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&" alt="jimmy-ramani-0912" /></p>
