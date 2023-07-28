@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jimmy-ramani-0912?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@jimmyramani)
+- 📝 I am writing articles on [Medium](https://medium.com/@jimmyramani)
 
 - 📫 How to reach me through [Mail](mailto:jimmy.ramani.0912@gmail.com)
 
@@ -38,10 +38,10 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jimmy-ramani-0912&show_icons=true&locale=en&layout=compact" alt="Jimmy Ramani"/></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jimmy-ramani-0912&show_icons=true&locale=en&layout=compact" alt="jimmy-ramani-0912"/></p>
 
 </br>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jimmy-ramani-0912&show_icons=true&locale=en" alt="Jimmy Ramani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jimmy-ramani-0912&show_icons=true&locale=en" alt="jimmy-ramani-0912" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&" alt="Jimmy Ramani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&" alt="jimmy-ramani-0912" /></p>
