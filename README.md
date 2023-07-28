@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>
+<h3 align="justify">I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. My area of Interest are App Designing and some what Web Designing, I have worked on a variety of App & Web projects throughout my academic career. I don’t want bound my knowledge, I want keep refresh my knowledge and stay update with this IT field!✨</h3>
+<br />
+<br />
+<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 # 💫 About Me:
 🌱 I’m currently learning **Full Stack Web Development**<br><br>👨‍💻 All of my projects are available at [Github](https://github.com/jimmy-ramani-0912?tab=repositories)<br><br>📝 I am writing articles on [Medium](https://medium.com/@jimmyramani)<br><br>📩 How to reach me through [Mail](mailto:jimmy.ramani.0912@gmail.com)<br><br>📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)<br><br>💬 Ask me about anything tech related, I am happy to help<br><br>⚡ Fun fact **I ❤️ 👨‍💻**
 
