@@ -38,10 +38,10 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=jimmy-ramani-0912&show_icons=true&locale=en&layout=compact" alt="jimmy-ramani-0912"/></p>
+</br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jimmy-ramani-0912&show_icons=true&locale=en" alt="jimmy-ramani-0912" /></p>
 
 </br>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jimmy-ramani-0912&show_icons=true&locale=en" alt="jimmy-ramani-0912" /></p>
-</br>
+
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&" alt="jimmy-ramani-0912" /></p>
