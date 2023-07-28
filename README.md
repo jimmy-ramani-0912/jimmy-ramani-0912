@@ -3,7 +3,7 @@
 <br />
 <br />
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning **Full Stack Web Development**<br><br>👨‍💻 All of my projects are available at [Github](https://github.com/jimmy-ramani-0912?tab=repositories)<br><br>📝 I am writing articles on [Medium](https://medium.com/@jimmyramani)<br><br>📩 How to reach me through [Mail](mailto:jimmy.ramani.0912@gmail.com)<br><br>📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)<br><br>💬 Ask me about anything tech related, I am happy to help<br><br>⚡ Fun fact **I ❤️ 👨‍💻**
 
 
