@@ -1,6 +1,6 @@
 ![Jimmy Ramani Banner Image](./Hello.png)
 <!-- <h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>-->
-<h3 align="justify">I'm a passionate developer with expertise in Flutter, ReactJS, NodeJS and DevOps. As a Flutter developer, I have experience building beautiful and responsive cross-platform mobile applications. My area of Interest are App Designing and some what Web Designing, I have worked on a variety of App & Web projects throughout my academic career. I don’t want bound my knowledge, I want keep refresh my knowledge and stay update with this IT field!✨</h3>
+<h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.I enjoy learning and creating innovative products with a meaningful purpose.</h3>
 <br />
 <br />
 
