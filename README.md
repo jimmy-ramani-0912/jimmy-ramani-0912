@@ -1,7 +1,6 @@
 ![Jimmy Ramani Banner Image](./Hello.png)
-<!-- <h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>-->
-<h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.I enjoy learning and creating innovative products with a meaningful purpose.</h3>
-<br />
+<h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>
+<h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 <br />
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
