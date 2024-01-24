@@ -1,23 +1,23 @@
 ![Jimmy Ramani Banner Image](./Hello.png)
-<h1 align="center">Hello 👋, I'm Jimmy Ramani</h1>
+[//]: <h1 align="center">Hello 👋, I'm Jimmy Ramani</h1>
 <h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 <br />
 
 <img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
 
-- 🌱 I’m currently learning **Flutter, ReactJS, NodeJS, DevOps**
+- 🌱 Currently cultivating skills in **Flutter, ReactJS, NodeJS, and the magic of DevOps**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/jimmy-ramani-0912?tab=repositories)
+- 👨‍💻 Peek into my coding world on [Github](https://github.com/jimmy-ramani-0912?tab=repositories)
 
-- 📝 I am writing articles on [Medium](https://medium.com/@jimmyramani)
+- 📝 Scribbling tech tales on [Medium](https://medium.com/@jimmyramani)
 
 - 📫 How to reach me through [Mail](mailto:jimmy.ramani.0912@gmail.com)
 
 - 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)
 
-- 💬 Ask me about anything tech related, I am happy to help
+- 💬 Ask me about anything tech related,Need tech insights? I am happy to help
 
-- ⚡ Fun fact **I ❤️ 👨‍💻**
+- ⚡ Fun fact: **I have a ❤️ for coding**
 
 <br/>
 <br/>
