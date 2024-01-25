@@ -3,7 +3,7 @@
 <h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 <br />
 
-<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
+<img align="right" alt="GIF" src="assets/coding-freak.gif" width="50%" />
 
 - 🌱 Currently cultivating skills in **Flutter, ReactJS, NodeJS, and the magic of DevOps**
 
