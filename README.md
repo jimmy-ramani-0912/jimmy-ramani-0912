@@ -6,19 +6,23 @@
 ## 👨🏼‍💻 About Me :
 <img align="right" alt="GIF" src="assets/programmer.gif" width="40%" height="80%" />
 
-- 🌱 Currently cultivating skills in **Flutter, ReactJS, NodeJS, and the magic of DevOps**
-
-- 👨‍💻 Peek into my coding world on [Github](https://github.com/jimmy-ramani-0912?tab=repositories)
-
-- 📝 Scribbling tech tales on [Medium](https://medium.com/@jimmyramani)
-
-- 📫 How to reach me through [Mail](mailto:jimmy.ramani.0912@gmail.com)
-
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/jimmyramani/)
-
-- 💬 Ask me about anything tech related,Need tech insights? I am happy to help
-
-- ⚡ Fun fact: **I have a ❤️ for coding**
+- 👨‍💻 I'm on an exciting journey as a Full Stack Developer [**[@ Softrefine Technology Pvt Ltd.](https://softrefine.com/)**, where I bring creativity and innovation to the tech realm.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **What Sparks My Enthusiasm**
+  - 📊 Web Development with **ReactJS, NodeJS, ExpressJS, MongoDB**
+  - 📱 Mobile Apps Magic with **Flutter**
+  - 🌐 Creating Cloud Symphony: **AWS, Docker, Jenkins, Kubernetes, Terraform**
+- 📫 Connect With Me
+  - 📧 Shoot me an [email](mailto:jimmy.ramani0912@gmail.com).
+  - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jimmyramani/) for professional networking.
+  - 📙 Explore my [resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
+  - 📝 Read my thoughts on [Medium](https://medium.com/@jimmyramani). Dive into my tech tales!
+- 🚀 Current Focus
+  - 🚀 **Innovative Projects:** Creating something cool that adds value.
+  - 📚 **Continuous Learning:** Always hungry for the next challenge.
+- 📢 Sharing Knowledge
+  - 📚 Solving tech problem on [Stack Overflow](https://stackoverflow.com/users/23302913/jimmy-ramani).
+  - 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/jimmyramani/). Check out my contributed articles.
+- 💬 Ask me about anything tech related, Need tech insights? I am happy to help!
 
 ### 📬 Find me at:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimmyramani)  [![Medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jimmyramani) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jimmyramani) [![Gmail](https://img.shields.io/badge/gmail-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmy.ramani0912@gmail.com) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jim_my0915)
