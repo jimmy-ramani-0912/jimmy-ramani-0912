@@ -6,7 +6,7 @@
 ## 👨🏼‍💻 About Me :
 <img align="right" alt="GIF" src="assets/programmer.gif" width="40%" height="80%" />
 
-- 👨‍💻 I'm on an exciting journey as a Full Stack Developer **[@ Softrefine Technology Pvt Ltd.](https://softrefine.com/)**, where I bring creativity and innovation to the tech realm.
+- 👨‍💻 I'm on an exciting journey as a Full Stack Developer @ **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)** , where I bring creativity and innovation to the tech realm.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **What Sparks My Enthusiasm**
   - 📊 Web Development with **ReactJS, NodeJS, ExpressJS, MongoDB**
   - 📱 Mobile Apps Magic with **Flutter**
