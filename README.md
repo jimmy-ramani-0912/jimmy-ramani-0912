@@ -14,9 +14,9 @@
 - 🪖 Giving solution of problems on [Stack Overflow](https://stackoverflow.com/users/23302913/jimmy-ramani).
 - 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/jimmyramani/). Check out my contributed articles.
 - 💻 Check out my design experiments on [CodePen](https://codepen.io/jimmyramani).
+- 📙 Explore my [Resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
 - 🚀 **Innovative Projects:** Creating something cool that adds value.
 - 📚 **Continuous Learning:** Always hungry for the next challenge.
-- 📙 Explore my [resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
 - 💬 Ask me about anything tech related, Need tech insights? I am happy to help!
 
 ### 📬 Find me at:
