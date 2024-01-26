@@ -6,22 +6,17 @@
 ## 👨🏼‍💻 About Me :
 <img align="right" alt="GIF" src="assets/programmer.gif" width="40%" height="80%" />
 
-- 👨‍💻 I'm on an exciting journey as a Full Stack Developer [**[@ Softrefine Technology Pvt Ltd.](https://softrefine.com/)**, where I bring creativity and innovation to the tech realm.
+- 👨‍💻 I'm on an exciting journey as a Full Stack Developer **[@ Softrefine Technology Pvt Ltd.](https://softrefine.com/)**, where I bring creativity and innovation to the tech realm.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **What Sparks My Enthusiasm**
   - 📊 Web Development with **ReactJS, NodeJS, ExpressJS, MongoDB**
   - 📱 Mobile Apps Magic with **Flutter**
   - 🌐 Creating Cloud Symphony: **AWS, Docker, Jenkins, Kubernetes, Terraform**
-- 📫 Connect With Me
-  - 📧 Shoot me an [email](mailto:jimmy.ramani0912@gmail.com).
-  - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/jimmyramani/) for professional networking.
-  - 📙 Explore my [resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
-  - 📝 Read my thoughts on [Medium](https://medium.com/@jimmyramani). Dive into my tech tales!
-- 🚀 Current Focus
-  - 🚀 **Innovative Projects:** Creating something cool that adds value.
-  - 📚 **Continuous Learning:** Always hungry for the next challenge.
-- 📢 Sharing Knowledge
-  - 📚 Solving tech problem on [Stack Overflow](https://stackoverflow.com/users/23302913/jimmy-ramani).
-  - 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/jimmyramani/). Check out my contributed articles.
+- 🪖 Giving solution of problems on [Stack Overflow](https://stackoverflow.com/users/23302913/jimmy-ramani).
+- 📰 Contributing insights on [LinkedIn](https://www.linkedin.com/in/jimmyramani/). Check out my contributed articles.
+- 💻 Check out my design experiments on [CodePen](https://codepen.io/jimmyramani).
+- 🚀 **Innovative Projects:** Creating something cool that adds value.
+- 📚 **Continuous Learning:** Always hungry for the next challenge.
+- 📙 Explore my [resume](https://drive.google.com/file/d/1nI1WcgH36h1UZ1DWl8w_t4ADq_ECTfCz/view?usp=sharing). Let's make it a page-turner!
 - 💬 Ask me about anything tech related, Need tech insights? I am happy to help!
 
 ### 📬 Find me at:
