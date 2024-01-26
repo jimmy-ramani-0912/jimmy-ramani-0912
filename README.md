@@ -24,19 +24,237 @@
 
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
+
+### Languages 🚀
+> Proficient in various languages, including:
+
+<table>
+  <tr>
+  <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/C.png" width="48" height="48" alt="c" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/C++.png" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/HTML.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/CSS.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/JS.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Typescript.png" width="48" height="48" alt="Typescript" />
+      </a>
+      <br>Typescript
+    </td>
+    <td align="center"  width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Dart.png" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech" >
+        <img src="./icons/Python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
+
+### Frontend 🎨
+
+> Specialize in Frontend technologies like:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/React.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Flutter.png" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech" >
+        <img src="./icons/Sass.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Tailwind-CSS.png" width="48" height="48" alt="Tailwind-CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Ant-Design.png" width="48" height="48" alt="Ant-Design" />
+      </a>
+      <br>Ant Design
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Material-UI.png" width="48" height="48" alt="Material-UI" />
+      </a>
+      <br>Material UI
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech" >
+        <img src="./icons/Bootstrap.png" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+### Backend 🏬
+
+> Specialize in Backend services like:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/NodeJS.png" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/ExpressJS.png" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br>ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Firebase.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+  </tr>
+</table>
+
+### Databases 🛢️
+
+> Work with various databases, including:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Mongodb.png" width="48" height="48" alt="Mongodb" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/mysql.png" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Postgresql.png" width="48" height="48" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+## DevOps 🚀
+
+> In the DevOps realm, use services like:
+
+<table>
+  <tr>
+    <td align="center" width="96" margin="10">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Amazon-Web-Services.png" width="48" height="48" alt="Amazon-Web-Services" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Jenkins.png" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Kubernetes.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Terraform.png" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/Vagrant.png" width="48" height="48" alt="Vagrant" />
+      </a>
+      <br>Vagrant
+    </td>
+  </tr>
+</table>
+
+### ORM Tools 🛠️
+
+> Leverage ORM tools such as:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#utsavdesai-tech">
+        <img src="./icons/mongoose.png" width="48" height="48" alt="mongoose" />
+      </a>
+      <br>Mongoose
+    </td>
+  </tr>
+</table>
+
+## DevSetup 🖥️
+
+<img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=Git&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Android Studio-555555?style=flat-square&logo=android-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> <img src="https://img.shields.io/badge/PyCharm-555555.svg?&style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ-555555.svg?&style=flat-square&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Postman-555555.svg?&style=flat-square&logo=postman&logoColor=FF6C37"> <img src="https://img.shields.io/badge/CodePen-555555.svg?&style=flat-square&logo=codepen&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Canva-555555.svg?&style=flat-square&logo=canva&logoColor=white"> 
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jimmy-ramani-0912&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://visitcount.itsvg.in/api?id=jimmy-ramani-0912&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
