@@ -2,8 +2,9 @@
 <!--- <h1 align="center">Hello 👋, I'm Jimmy Ramani</h1> -->
 <h3 align="justify">Passionate tech enthusiast skilled in web and app development, with a focus on creating engaging and innovative digital experiences.</h3>
 <br />
-
-## 👨🏼‍💻 About Me :
+[![](https://visitcount.itsvg.in/api?id=jimmy-ramani-0912&icon=0&color=0)](https://visitcount.itsvg.in)
+<br />
+## <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"> About Me :
 <img align="right" alt="GIF" src="assets/programmer.gif" width="40%" height="80%" />
 
 - 👨‍💻 I'm on an exciting journey as a Full Stack Developer @ **[Softrefine Technology Pvt Ltd.](https://softrefine.com/)** , where I bring creativity and innovation to the tech realm.
@@ -250,11 +251,9 @@
 
 <img src="https://img.shields.io/badge/Git-555555.svg?&style=flat-square&logo=Git&logoColor=0078D6"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Android Studio-555555?style=flat-square&logo=android-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Anaconda-555555.svg?&style=flat-square&logo=anaconda&logoColor=44A833"> <img src="https://img.shields.io/badge/PyCharm-555555.svg?&style=flat-square&logo=pycharm&logoColor=black"> <img src="https://img.shields.io/badge/IntelliJ-555555.svg?&style=flat-square&logo=intellij-idea&logoColor=black"> <img src="https://img.shields.io/badge/Postman-555555.svg?&style=flat-square&logo=postman&logoColor=FF6C37"> <img src="https://img.shields.io/badge/CodePen-555555.svg?&style=flat-square&logo=codepen&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420"> <img src="https://img.shields.io/badge/Canva-555555.svg?&style=flat-square&logo=canva&logoColor=white"> 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&theme=blueberry&hide_border=false)<br/>
+## 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jimmy-ramani-0912&theme=blueberry&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy-ramani-0912&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=jimmy-ramani-0912&icon=0&color=0)](https://visitcount.itsvg.in)
